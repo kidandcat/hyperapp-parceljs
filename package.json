@@ -9,5 +9,9 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "less": "^3.0.1",
+    "node-sass": "^4.8.3"
   }
 }

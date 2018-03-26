@@ -1,5 +1,6 @@
 import { app } from "hyperapp";
 import { Counter } from "./components";
+import "./css/base.less";
 
 // State
 const state = {

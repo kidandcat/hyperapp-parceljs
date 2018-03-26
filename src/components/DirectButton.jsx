@@ -7,7 +7,7 @@ const DirectButton = ({ action }, children) => (state, actions) => (
 
 export const DirectButtons = () => (
   <div>
-    <span>Direct Buttons</span>
+    <p>Direct Buttons</p>
     <DirectButton action="up">+</DirectButton>
     <DirectButton action="down">-</DirectButton>
   </div>

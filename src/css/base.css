@@ -1,0 +1,22 @@
+button {
+  outline: none;
+  border: 1px solid #00d9ff;
+  border-radius: 7px;
+  cursor: pointer;
+  margin: 5px;
+  padding: 5px 15px 5px 15px;
+  transition: all 0.2s linear;
+}
+button:hover {
+  transition: all 0.2s linear;
+  background-color: rgba(0, 217, 255, 0.6);
+  transform: scale(1.1);
+}
+.text-centered {
+  text-align: center;
+}
+.centered {
+  margin-left: 50%;
+  transform: translateX(-50%);
+  display: inline-block;
+}

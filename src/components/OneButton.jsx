@@ -7,7 +7,7 @@ const OneButton = ({ action }, children) => (
 
 export const OneButtons = ({ actions }) => (
   <div>
-    <span>One Buttons</span>
+    <p>One Buttons</p>
     <OneButton action={actions.aup}>+</OneButton>
     <OneButton action={actions.adown}>-</OneButton>
   </div>
