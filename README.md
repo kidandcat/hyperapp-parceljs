@@ -1,4 +1,4 @@
-# HyperApp + ParcelJS
+# Hyperapp + ParcelJS
 
 Lightweight alternative to React + Redux + (redux-observable|redux-saga|redux-thunk).
 
